@@ -5,7 +5,7 @@
   "author": "sirensong0 <smalenskimikalaj@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "json-server --watch db.json --port=3001"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.0"
