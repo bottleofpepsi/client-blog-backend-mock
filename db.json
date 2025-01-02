@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "id": "1",
+      "id": 1,
       "category": "startup",
-      "author_id": "1",
+      "author_id": 1,
       "publish_date": "2022-05-23",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/664/2000/1500.jpg?hmac=6wBiJlKjAzxcxM-HcFLP9YYuhJKUyr57zji1taR7fvo",
@@ -49,9 +49,9 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "category": "business",
-      "author_id": "2",
+      "author_id": 2,
       "publish_date": "2023-04-21",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/830/2000/1500.jpg?hmac=-mCQm7Ert9anfTuPCv-SGmhY7tcp5IciCXrc7w_XPbg",
@@ -97,9 +97,9 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "category": "economy",
-      "author_id": "3",
+      "author_id": 3,
       "publish_date": "2023-05-1",
       "title": "8 Figma design systems that you can download for free.",
       "title_image": "https://fastly.picsum.photos/id/830/2000/1500.jpg?hmac=-mCQm7Ert9anfTuPCv-SGmhY7tcp5IciCXrc7w_XPbg",
@@ -146,9 +146,9 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "category": "technology",
-      "author_id": "4",
+      "author_id": 4,
       "publish_date": "2023-05-1",
       "title": "8 Figma design systems that you can download for free.",
       "title_image": "https://fastly.picsum.photos/id/116/2000/1500.jpg?hmac=V7MXFOWl6KqktBoiUtB6UjNozxxQdy7S3MZPqfyyRSg",
@@ -194,9 +194,9 @@
       ]
     },
     {
-      "id": "5",
+      "id": 5,
       "category": "startup",
-      "author_id": "1",
+      "author_id": 1,
       "publish_date": "2022-05-23",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/961/2000/1500.jpg?hmac=xnqH3hZembbq7kLFE8V0Lj-RVw_9MIaMX-XZppB42i8",
@@ -241,10 +241,10 @@
       ]
     },
     {
-      "id": "6",
+      "id": 6,
       "category": "startup",
-      "author_id": "2",
-      "publish_date": "2023-05-1",
+      "author_id": 2,
+      "publish_date": "2023-05-01",
       "title": "8 Figma design systems that you can download for free.",
       "title_image": "https://fastly.picsum.photos/id/554/2000/1500.jpg?hmac=PppaH_FhLNLnFwrwxXbMceNDFUY2Sa9EICT5B3SiQVw",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
@@ -289,10 +289,10 @@
       ]
     },
     {
-      "id": "7",
+      "id": 7,
       "category": "startup",
-      "author_id": "3",
-      "publish_date": "2023-05-1",
+      "author_id": 3,
+      "publish_date": "2023-05-01",
       "title": "8 Figma design systems that you can download for free.",
       "title_image": "https://fastly.picsum.photos/id/106/2000/1500.jpg?hmac=EgD02KJZUAaC3pedUKybONK2qpnyDpuqJZDUJJBWuYw",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
@@ -337,9 +337,9 @@
       ]
     },
     {
-      "id": "8",
+      "id": 8,
       "category": "business",
-      "author_id": "4",
+      "author_id": 4,
       "publish_date": "2022-05-23",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/302/2000/1500.jpg?hmac=SClKhx3NgsHregpm3Wr58nCNYtokOmFBX2JHfSbxwPM",
@@ -385,10 +385,10 @@
       ]
     },
     {
-      "id": "9",
+      "id": 9,
       "category": "startup",
-      "author_id": "1",
-      "publish_date": "2023-05-1",
+      "author_id": 1,
+      "publish_date": "2023-05-01",
       "title": "8 Figma design systems that you can download for free.",
       "title_image": "https://fastly.picsum.photos/id/729/2000/1500.jpg?hmac=nuKYcN5KFgQwg47gzQoZ4lSLZkn7eGkFZDH4wa5_D-w",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
@@ -425,10 +425,10 @@
       ]
     },
     {
-      "id": "10",
+      "id": 10,
       "category": "technology",
-      "author_id": "2",
-      "publish_date": "2023-05-1",
+      "author_id": 2,
+      "publish_date": "2023-05-01",
       "title": "8 Figma design systems that you can download for free.",
       "title_image": "https://fastly.picsum.photos/id/176/2000/1500.jpg?hmac=SjB0gQR3Khn2q56U-rwKyWynt_VdUq6kzv_FlJBtRwc",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
@@ -473,9 +473,9 @@
       ]
     },
     {
-      "id": "11",
+      "id": 11,
       "category": "startup",
-      "author_id": "3",
+      "author_id": 3,
       "publish_date": "2022-05-23",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/473/2000/1500.jpg?hmac=CeLQcOVZfr7IX1RZommkEK9uglTEl4Fh3eGSryQmfzk",
@@ -521,9 +521,9 @@
       ]
     },
     {
-      "id": "12",
+      "id": 12,
       "category": "economy",
-      "author_id": "4",
+      "author_id": 4,
       "publish_date": "2022-05-23",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/961/2000/1500.jpg?hmac=xnqH3hZembbq7kLFE8V0Lj-RVw_9MIaMX-XZppB42i8",
@@ -569,9 +569,9 @@
       ]
     },
     {
-      "id": "13",
+      "id": 13,
       "category": "technology",
-      "author_id": "1",
+      "author_id": 1,
       "publish_date": "2017-05-23",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/473/2000/1500.jpg?hmac=CeLQcOVZfr7IX1RZommkEK9uglTEl4Fh3eGSryQmfzk",
@@ -617,9 +617,9 @@
       ]
     },
     {
-      "id": "14",
+      "id": 14,
       "category": "technology",
-      "author_id": "2",
+      "author_id": 2,
       "publish_date": "2024-01-07",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/961/2000/1500.jpg?hmac=xnqH3hZembbq7kLFE8V0Lj-RVw_9MIaMX-XZppB42i8",
@@ -661,9 +661,9 @@
       ]
     },
     {
-      "id": "15",
+      "id": 15,
       "category": "economy",
-      "author_id": "3",
+      "author_id": 3,
       "publish_date": "2023-11-12",
       "title": "Step-by-step guide to choosing great font pairs",
       "title_image": "https://fastly.picsum.photos/id/961/2000/1500.jpg?hmac=xnqH3hZembbq7kLFE8V0Lj-RVw_9MIaMX-XZppB42i8",
@@ -711,7 +711,7 @@
   ],
   "authors": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Evan Castro",
       "avatar": {
         "src": "https://i.pravatar.cc/1000?u=asdhafr",
@@ -728,7 +728,7 @@
       }
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Dianne Russell",
       "avatar": {
         "src": "https://i.pravatar.cc/1000?u=efrgt54tre",
@@ -745,7 +745,7 @@
       }
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Ian Terry",
       "avatar": {
         "src": "https://i.pravatar.cc/1000?u=asdasdasddasdxda",
@@ -762,7 +762,7 @@
       }
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Denzel Mayer",
       "avatar": {
         "src": "https://i.pravatar.cc/1000?u=efgnhyhtgrfe",
