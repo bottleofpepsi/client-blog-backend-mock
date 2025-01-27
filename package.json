@@ -4,9 +4,7 @@
   "main": "index.js",
   "author": "sirensong0 <smalenskimikalaj@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "scripts": {},
   "dependencies": {
     "json-server": "^0.17.0"
   }
